@@ -1,0 +1,29 @@
+{
+  "name": "date-convert-bot",
+  "version": "1.0.0",
+  "description": "convert date persian to grogerian and reverse",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robatipoor/date-convert-bot.git"
+  },
+  "keywords": [
+    "bot",
+    "telegram",
+    "date",
+    "persian"
+  ],
+  "author": "robatipoor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/robatipoor/date-convert-bot/issues"
+  },
+  "homepage": "https://github.com/robatipoor/date-convert-bot#readme",
+  "dependencies": {
+    "jalaali-js": "^1.1.0",
+    "telegraf": "^3.27.1"
+  }
+}
